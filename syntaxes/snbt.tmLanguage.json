@@ -190,7 +190,7 @@
                             "name": "punctuation.separator.dictionary.key-value.snbt"
                         }
                     },
-                    "end": "(,)|(?=\\})",
+                    "end": "(,|\n)|(?=\\})",
                     "endCaptures": {
                         "1": {
                             "name": "punctuation.separator.dictionary.pair.snbt"
