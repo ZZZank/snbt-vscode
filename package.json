@@ -25,6 +25,16 @@
                     ".snbt"
                 ],
                 "configuration": "./language-configuration.json"
+            },
+            {
+                "id": "snbt_ftb",
+                "aliases": [
+                    "S-NBT (FTB)"
+                ],
+                "extensions": [
+                    ".snbt"
+                ],
+                "configuration": "./language-configuration.json"
             }
         ],
         "grammars": [
@@ -32,6 +42,11 @@
                 "language": "snbt",
                 "scopeName": "source.snbt",
                 "path": "./syntaxes/snbt.tmLanguage.json"
+            },
+            {
+                "language": "snbt_ftb",
+                "scopeName": "source.snbt",
+                "path": "./syntaxes/snbt_ftb.tmLanguage.json"
             }
         ]
     },
