@@ -45,7 +45,7 @@
             },
             {
                 "language": "snbt_ftb",
-                "scopeName": "source.snbt",
+                "scopeName": "source.snbt_ftb",
                 "path": "./syntaxes/snbt_ftb.tmLanguage.json"
             }
         ]
